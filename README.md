@@ -84,11 +84,6 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ONI154&layout=compact&hide_border=true&theme=dark" alt="Most used languages" />
 </p>
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ONI154&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
-</p>
 
 ### 💬 Dev Quote
 
