@@ -59,17 +59,7 @@ I keep this list focused on technologies reflected in my projects.
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
 </p>
 
----
 
-## 📌 Featured Projects
-
-| Project | What it is |
-| --- | --- |
-| [**AniTo Web**](https://github.com/ONI154/AniTo-web) | Anime, movie, and TV discovery and watching platform |
-| [**reanime-clone**](https://github.com/ONI154/reanime-clone) | SvelteKit-based anime web interface |
-| [**Anivexa API**](https://github.com/ONI154/Anivexa-API) | API that brings together anime episode and streaming sources |
-| [**AniVault Scraper**](https://github.com/ONI154/Anivault-Scraper) | Anime metadata and streaming-source backend |
-| [**Anime SDK**](https://github.com/ONI154/anime-sdk) | Anime-related developer tooling |
 
 ---
 
