@@ -26,13 +26,6 @@ An anime-first discovery and watching platform expanding into movies and TV show
 - 🔎 Search, discovery, schedules, and media details
 - 🧩 Provider-based playback and responsive UI
 
-=white" alt="SvelteKit" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-</p>
-
-
-
 
 
 ---
